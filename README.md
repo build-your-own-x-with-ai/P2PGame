@@ -39,7 +39,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/buld-your-own-x-with-ai/P2PGame.git
+git clone https://github.com/build-your-own-x-with-ai/P2PGame.git
 cd P2PGame
 ```
 
